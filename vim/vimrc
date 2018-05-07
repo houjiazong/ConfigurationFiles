@@ -21,6 +21,7 @@ set incsearch     " do incremental searching
 set laststatus=2  " Always display the status line
 set autowrite     " Automatically :write before running commands
 set confirm       " Need confrimation while exit
+set encoding=utf-8
 set fileencodings=utf-8,gb18030,gbk,big5
 
 " Switch syntax highlighting on, when the terminal has colors
